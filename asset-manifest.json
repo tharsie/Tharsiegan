@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Tharsiegan-Portfolio/static/css/main.65ddcc89.css",
-    "main.js": "/Tharsiegan-Portfolio/static/js/main.48527979.js",
+    "main.css": "/Tharsiegan-Portfolio/static/css/main.5e724e63.css",
+    "main.js": "/Tharsiegan-Portfolio/static/js/main.a7015a4a.js",
     "static/js/453.c28e18c3.chunk.js": "/Tharsiegan-Portfolio/static/js/453.c28e18c3.chunk.js",
     "static/media/color-sharp.png": "/Tharsiegan-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Tharsiegan-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.png": "/Tharsiegan-Portfolio/static/media/header-img.9d28caf5bf6aa9dcbb70.png",
     "static/media/banner-bg.png": "/Tharsiegan-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/header-img.svg": "/Tharsiegan-Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/Tharsiegan-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Tharsiegan-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Tharsiegan-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -28,12 +28,12 @@
     "static/media/arrow2.svg": "/Tharsiegan-Portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Tharsiegan-Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Tharsiegan-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.65ddcc89.css.map": "/Tharsiegan-Portfolio/static/css/main.65ddcc89.css.map",
-    "main.48527979.js.map": "/Tharsiegan-Portfolio/static/js/main.48527979.js.map",
+    "main.5e724e63.css.map": "/Tharsiegan-Portfolio/static/css/main.5e724e63.css.map",
+    "main.a7015a4a.js.map": "/Tharsiegan-Portfolio/static/js/main.a7015a4a.js.map",
     "453.c28e18c3.chunk.js.map": "/Tharsiegan-Portfolio/static/js/453.c28e18c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65ddcc89.css",
-    "static/js/main.48527979.js"
+    "static/css/main.5e724e63.css",
+    "static/js/main.a7015a4a.js"
   ]
 }
